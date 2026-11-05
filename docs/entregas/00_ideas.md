@@ -107,7 +107,7 @@ Además, una elevada movilidad no garantiza que exista demanda comercial suficie
 2. Comprobar la cobertura de rutas y horarios de transporte existentes.
 3. Evaluar si es posible identificar oportunidades mediante un análisis reproducible.
 4. Revisar las condiciones legales de utilización y comercialización de los datos.
-5. Presentar un informe de prueba a empresas de transporte para evaluar su utilidad y disposición a pagar.
+
 
 **Primera prueba de viabilidad:**
 
