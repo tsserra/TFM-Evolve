@@ -8,7 +8,7 @@ Proyecto transversal del Máster de Data Science e Inteligencia Artificial (2026
 | Nombre | Usuario de GitHub |
 |---|---|
 | Álvaro Álvarez Zazo | [@SirZazo](https://github.com/SirZazo) |
-| [Antoni Serra Serra] | [@tsserra](https://github.com/tsserra) |
+| Antoni Serra Serra | [@tsserra](https://github.com/tsserra) |
 
 ## Estado del proyecto
 
@@ -22,11 +22,11 @@ Plataforma de análisis de movilidad que identifica oportunidades de nuevas ruta
 
 ### 2. [Nombre de la segunda propuesta]
 
-[Descripción breve del proyecto, máximo dos líneas.]
+
 
 ### 3. [Nombre de la tercera propuesta]
 
-[Descripción breve del proyecto, máximo dos líneas.]
+
 
 ## Documentación
 
