@@ -9,6 +9,7 @@ Proyecto transversal del Máster de Data Science e Inteligencia Artificial (2026
 |---|---|
 | Álvaro Álvarez Zazo | [@SirZazo](https://github.com/SirZazo) |
 | Antoni Serra Serra | [@tsserra](https://github.com/tsserra) |
+| Daniel Fabelo Santana |[@DannyCanario](https://github.com/DannyCanario)|
 
 ## Estado del proyecto
 
