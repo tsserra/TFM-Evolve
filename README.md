@@ -10,6 +10,7 @@ Proyecto transversal del Máster de Data Science e Inteligencia Artificial (2026
 | Álvaro Álvarez Zazo | [@SirZazo](https://github.com/SirZazo) |
 | Antoni Serra Serra | [@tsserra](https://github.com/tsserra) |
 | Daniel Fabelo Santana |[@DannyCanario](https://github.com/DannyCanario)|
+| Cynthia Pérez Gil | [@CynthiaPerezGil](https://github.com/CynthiaPerezGil) |
 
 ## Estado del proyecto
 
@@ -21,11 +22,13 @@ Proyecto transversal del Máster de Data Science e Inteligencia Artificial (2026
 
 Plataforma de análisis de movilidad que identifica oportunidades de nuevas rutas de transporte colectivo y genera informes comerciales para empresas de autobuses.
 
-### 2. [Nombre de la segunda propuesta]
+### 2. ReIngreso 30
 
+Sistema inteligente de predicción de reingresos hospitalarios mediante inteligencia artificial. Estima el riesgo de reingreso a 30 días y proporciona predicciones explicables para apoyar las decisiones de los profesionales sanitarios.
 
+### 3. GameVision AI
 
-### 3. [Nombre de la tercera propuesta]
+Plataforma de análisis del rendimiento futbolístico y predicción de resultados mediante inteligencia artificial. Permite comparar jugadores y equipos y estimar las probabilidades de victoria, empate o derrota.
 
 
 
