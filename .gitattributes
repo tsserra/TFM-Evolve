@@ -1,0 +1,2 @@
+docs/BusMatch/data/raw/*.csv.gz filter=lfs diff=lfs merge=lfs -text
+docs/BusMatch/data/silver/*.csv filter=lfs diff=lfs merge=lfs -text
