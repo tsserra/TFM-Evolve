@@ -1,7 +1,0 @@
-# Metadatos de Windows
-*:Zone.Identifier
-
-# Archivos temporales
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
