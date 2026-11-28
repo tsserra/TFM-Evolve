@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+
 # Distribution / packaging
 .Python
 build/
@@ -218,3 +219,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# GAMEVISION - DATA MANAGEMENT
+# ==========================================
+
+# Bronze - Datos originales
+/data/bronze/*
+!/data/bronze/.gitkeep
+
+# Silver - Datos procesados
+/data/silver/*
+!/data/silver/.gitkeep
+
+# Gold - Datos analíticos
+/data/gold/*
+!/data/gold/.gitkeep
+
+# Windows metadata
+*:Zone.Identifier
